@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: normal 16pt Arial;
+    background: blueviolet;
+    color: antiquewhite;
+    align-items: center;
+}
+
+header {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+section {
+    width: 500px;
+    background: antiquewhite;
+    color: black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.767);
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+}
